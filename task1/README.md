@@ -78,6 +78,7 @@ Negative inputs
 Zero distance
 Zero acceleration
 Speed limits 
+![WhatsApp Image 2026-03-22 at 11 44 12 PM](https://github.com/user-attachments/assets/93fa0ac2-a12a-4c2a-b50c-6683bc7a5d1a)
 
 Contributors:
 parvathy G
