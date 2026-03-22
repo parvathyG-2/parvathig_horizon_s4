@@ -26,6 +26,11 @@ Anode → D7 (through 220Ω resistor)
 Cathode → GND
 
 
+
+![task2 2](https://github.com/user-attachments/assets/4810f941-d6f7-4a0a-89aa-6f728e9662a5)
+
+![task2](https://github.com/user-attachments/assets/1599c299-2215-4576-b0ae-3cc586904466)
+
 How It Works
 
 Reading the potentiometer:
