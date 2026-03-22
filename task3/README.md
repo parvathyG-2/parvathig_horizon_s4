@@ -50,6 +50,9 @@ Run the subscriber node (in a separate terminal):
 ros2 run your_package_name distance_subscriber
 You should see distance values printed in the subscriber terminal.
 
+<img width="1280" height="800" alt="Screenshot from 2026-03-22 20-25-02" src="https://github.com/user-attachments/assets/baf561e7-e752-412f-8840-ba7e1accfa27" />
+
+
 Notes:
 
 This is a simple simulation; you can replace the random distance in the publisher with real sensor data later.
